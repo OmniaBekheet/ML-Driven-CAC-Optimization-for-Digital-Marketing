@@ -36,6 +36,7 @@ The goal is to maximize conversions and minimize CAC by targeting the most promi
   - Conversion Rate vs. Number of Customers Targeted
 
 ![CAC vs. Number of Customers Targeted](CAC_vs_Customers_Targeted.jpg)
+![Conversion Rate vs. Number of Customers Targeted](Conversion_Rate_vs._Number_of_Customers_Targeted.jpg)
 
 ---
 
