@@ -5,7 +5,7 @@
 This project simulates the allocation of a $1M/month digital marketing budget using machine learning to optimize Customer Acquisition Cost (CAC).  
 The goal is to maximize conversions and minimize CAC by targeting the most promising leads, based on real digital marketing campaign data.
 
-- **Dataset:** [Digital Marketing Campaign Dataset](link-to-dataset-or-source)
+- **Dataset:** [Digital Marketing Campaign Dataset](digital_marketing_campaign_dataset.csv)
 - **Features:** Customer demographics, campaign channel/type, engagement metrics, previous purchases, loyalty points, and conversion outcome.
 
 ---
